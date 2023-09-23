@@ -1,0 +1,42 @@
+ [
+{
+"userId":"USR00001",
+"name":"Andrew Grudde",
+"profilePicture":
+"https://www.w3schools.com/howto/img_avatar2.png",
+"statusMessage": "We become what we think about!",
+"presence": 1
+},
+{
+"userId":"USR00002",
+"name": "Steve Hughes",
+"profilePicture":
+"https://www.w3schools.com/w3images/avatar6.png",
+"statusMessage": "A positive mindset brings positive things.",
+"presence": 2
+},
+{
+"userId": "USR00003",
+"name": "Kathy Smiley",
+"profilePicture":
+"https://cdnjs.cloudflare.com/ajax/libs/admin-lte/3.0.0/img/avatar.png",
+"statusMessage": "One small positive thought can change your whole day",
+"presence":2
+},
+{
+"userId":"USR00004",
+"name": "Steve Dunk",
+"profilePicture":
+"https://spng.pngfind.com/pngs/s/5-52097_avatar-png-pic-vector-avatar-icon-png-transparent.png",
+"statusMessage": "I am a rock star",
+"presence": 4
+},
+{
+"userId": "USR00005",
+"name": "Maria Dropola",
+"profilePicture":
+"https://picsum.photos/id/1003/200",
+"statusMessage": "I am using Gradious messenger",
+"presence": 4
+}
+    ]
